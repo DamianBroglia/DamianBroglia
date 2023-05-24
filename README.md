@@ -19,14 +19,14 @@ cada vez mas ambiciosos.
 
 <h3>Tecnologias </h3>
 
--Java Script
--Reac
--Redux
--Ajax
--Express
--PostgreSQL
--Sequalize
--MUI
+- Java Script
+- React
+- Redux
+- Ajax
+- Express
+- PostgreSQL
+- Sequalize
+- MUI
 
 <h3>Para contactarse conmigo </h3>
 
