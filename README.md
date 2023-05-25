@@ -31,14 +31,19 @@ cada vez mas ambiciosos.
 
 <img src="Imagenes GitHub/Tecnologias.png" alt="" width="1000px" />
 
-- Java Script
-- React
-- Redux
-- Ajax
-- Express
-- PostgreSQL
-- Sequalize
-- MUI
+✔ Java Script
+
+✔ React
+
+✔ Redux
+
+✔ Express
+
+✔ PostgreSQL
+
+✔ Sequalize
+
+✔ MUI
 
 <br />
 
