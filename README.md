@@ -44,9 +44,9 @@ cada vez mas ambiciosos.
 
 <img src="Imagenes GitHub/Capturas.png" alt="" width="1000px" />
 
-<img src="Imagenes GitHub/ImagenPatagoniaPag.png" alt="" width="500px" /> <img src="Imagenes GitHub/ImagenPatagoniaPag02.png" alt="" width="500px" />
-<img src="Imagenes GitHub/ImgDogsApp01.png" alt="" width="500px" /> <img src="Imagenes GitHub/ImgDogsApp03.png" alt="" width="500px" />
-<img src="Imagenes GitHub/RickAndMorty01.png" alt="" width="500px" /> <img src="Imagenes GitHub/RickAndMorty02.png" alt="" width="500px" />
+<img src="Imagenes GitHub/ImagenPatagoniaPag.png" alt="" width="400px" /> <img src="Imagenes GitHub/ImagenPatagoniaPag02.png" alt="" width="400px" />
+<img src="Imagenes GitHub/ImgDogsApp01.png" alt="" width="400px" /> <img src="Imagenes GitHub/ImgDogsApp03.png" alt="" width="400px" />
+<img src="Imagenes GitHub/RickAndMorty01.png" alt="" width="400px" /> <img src="Imagenes GitHub/RickAndMorty02.png" alt="" width="400px" />
 
 <br />
 
