@@ -45,6 +45,8 @@ cada vez mas ambiciosos.
 
 ✔ MUI
 
+✔ React Native
+
 <br />
 
 <img src="Imagenes GitHub/Capturas.png" alt="" width="1000px" />
